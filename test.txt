@@ -1,2 +1,3 @@
 this is a new file in master branch
 
+this is some other text
